@@ -1,6 +1,6 @@
 from tools.api import request_tool
 from tools.security.md5_tool import md5_passwd
-
+print("你二大爷的")
 '''
 自动生成 数字 20,80   #生成20到80之间的数字 例：56
 自动生成 字符串 5 中文数字字母特殊字符 xuepl        #生成以xuepl开头加上长度2到5位包含中文数字字母特殊字符的字符串，例子：xuepl我1
